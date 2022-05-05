@@ -1,6 +1,6 @@
 <h1> Fala comigo! Me chamo Davi Soares! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Futuro Desenvolvedor Full Stack
+- 🔥 Futuro Desenvolvedor Back-end
 - 🔭 Faço Curso Técnico no Colégio Joseense
 
 <div align="center">
