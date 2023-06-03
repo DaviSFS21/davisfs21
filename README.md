@@ -1,6 +1,6 @@
 <h1> Hi, my name is Davi Soares! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Dev Back-End
+- 🔥 Dev Full-Stack
 - 🔭 Cursing high school at Colégio Joseense
 
 <div align="center">
