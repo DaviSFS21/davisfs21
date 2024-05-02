@@ -1,7 +1,7 @@
 <h1> Hi, my name is Davi Soares! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Dev Full-Stack
-- 🔭 Cursing high school at Colégio Joseense
+- 🔭 Studying Database technologist at Fatec SJC
 
 <div align="center">
   <a href="https://github.com/DaviSFS21">
