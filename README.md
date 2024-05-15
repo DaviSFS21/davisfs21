@@ -2,6 +2,7 @@
 
 - 🔥 Web Developer
 - 🔭 Studying Database technologist at Fatec SJC
+- 💻 IT Intern at Sphere International School
 
 <div align="center">
   <a href="https://github.com/DaviSFS21">
