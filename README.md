@@ -2,7 +2,7 @@
 
 - 🔥 Fullstack Developer
 - 🔭 Studying Database at Fatec SJC
-- 💻 Fullstack Developer at Softfuse
+- 💻 Software Engineering Intern at IACIT
 
 <div align="center">
   <a href="https://github.com/DaviSFS21">
@@ -20,7 +20,8 @@
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />        
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />        
+  <img align="center" alt="ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />        
 </div>
   
   ## 🌎 &nbsp;Links
